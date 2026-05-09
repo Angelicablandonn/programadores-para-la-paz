@@ -1,0 +1,17 @@
+Reflexión — Semana 3
+
+Mantener un registro de cambios en los proyectos de software es una práctica esencial
+para cualquier desarrollador, ya que permite conocer con exactitud qué se modificó,
+cuándo y por qué, lo que facilita detectar errores y volver a versiones anteriores
+cuando algo falla.
+
+Herramientas como Git hacen posible que varios programadores trabajen sobre el mismo
+proyecto al mismo tiempo sin sobrescribir el trabajo de los demás, coordinando los
+cambios de forma ordenada y segura. Esto es especialmente valioso en equipos de desarrollo,
+donde la colaboración constante es parte del día a día.
+
+Además, el historial de commits funciona como una bitácora del proyecto, mostrando
+la evolución del código desde el inicio. Esto no solo ayuda al equipo actual, sino
+también a cualquier persona que se integre después y necesite entender cómo fue
+construido el proyecto. En definitiva, Git es una herramienta fundamental para
+desarrollar software de manera profesional y responsable.
