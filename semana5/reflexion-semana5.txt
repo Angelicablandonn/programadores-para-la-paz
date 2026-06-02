@@ -1,0 +1,18 @@
+Reflexión — Semana 5
+
+Las APIs pueden transformar la manera en que las comunidades comparten información,
+ya que permiten crear canales organizados y automáticos para enviar, recibir y consultar
+datos desde cualquier dispositivo conectado a internet. En lugar de depender de mensajes
+informales o grupos de chat, una comunidad podría tener su propio sistema donde cada
+persona envíe reportes, alertas o noticias de forma estructurada.
+
+Por ejemplo, una API podría recibir alertas sobre problemas de seguridad, daños en
+infraestructura o situaciones de emergencia, y distribuir esa información a quienes
+corresponda de manera inmediata y ordenada. Esto facilita que los líderes comunitarios
+tengan una visión clara de lo que ocurre en su territorio y puedan actuar con rapidez.
+
+Además, las APIs permiten que diferentes aplicaciones se conecten entre sí. Una comunidad
+podría tener una app móvil, un sitio web y un panel de gestión, todos compartiendo la
+misma información a través de la misma API. Esto hace que los sistemas sean más
+eficientes, escalables y accesibles para todos los miembros, sin importar el dispositivo
+que usen.
