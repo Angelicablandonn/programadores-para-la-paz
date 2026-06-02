@@ -1,0 +1,35 @@
+Conceptos de API — Semana 5
+============================
+
+¿Qué hace la ruta POST /reporte?
+----------------------------------
+La ruta POST /reporte recibe datos enviados por el usuario a través
+del cuerpo (body) de la solicitud. Específicamente, espera recibir
+un campo llamado "mensaje". Una vez que el servidor lo recibe,
+responde con un objeto JSON que contiene dos campos:
+  - "estado": confirma que el reporte fue recibido correctamente.
+  - "mensaje": repite el contenido enviado por el usuario.
+
+A diferencia de las rutas GET, esta ruta no se puede probar
+directamente en el navegador, ya que POST está diseñado para
+enviar información. Se prueba con herramientas como Postman,
+Thunder Client, o mediante código JavaScript usando fetch().
+
+Ejemplo de solicitud:
+  POST http://localhost:3000/reporte
+  Body (JSON): { "mensaje": "Hay un daño en la tubería del parque" }
+
+Respuesta del servidor:
+  { "estado": "Reporte recibido", "mensaje": "Hay un daño en la tubería del parque" }
+
+
+¿Para qué podría servir en una aplicación comunitaria?
+-------------------------------------------------------
+Esta ruta podría ser la base de un sistema de reportes ciudadanos.
+Por ejemplo, los habitantes de un barrio podrían enviar reportes
+sobre problemas como daños en vías, cortes de agua, inseguridad
+o emergencias. Cada reporte llegaría al servidor con un mensaje
+descriptivo, y la aplicación podría guardarlo en una base de datos
+para que líderes comunitarios o autoridades locales lo consulten
+y den respuesta oportuna. Es una forma sencilla pero poderosa de
+organizar la participación y comunicación dentro de una comunidad.
