@@ -1,0 +1,17 @@
+Reflexión — Semana 4
+
+Es importante que las comunidades y las iniciativas ciudadanas puedan construir sus propias
+herramientas tecnológicas porque esto les da autonomía e independencia frente a soluciones
+comerciales que muchas veces son costosas o no se adaptan a sus necesidades particulares.
+Tecnologías abiertas como Node.js permiten que cualquier persona, sin importar su contexto
+económico, pueda aprender, crear y compartir soluciones digitales de forma libre y gratuita.
+
+Cuando una comunidad desarrolla su propia herramienta, tiene control total sobre los datos
+que genera y puede modificar la aplicación según cambien sus necesidades, sin depender de
+terceros. Además, el uso de tecnologías abiertas fomenta la colaboración entre personas,
+ya que el código puede ser compartido, mejorado y reutilizado por otros grupos con problemas
+similares, generando un ecosistema de ayuda mutua.
+
+Finalmente, construir tecnología propia fortalece las capacidades locales y contribuye a
+reducir la brecha digital, empoderando a comunidades que históricamente han tenido menos
+acceso a las herramientas del mundo digital.
