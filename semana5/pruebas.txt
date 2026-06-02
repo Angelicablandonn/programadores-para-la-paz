@@ -1,0 +1,19 @@
+Pruebas de rutas — Semana 5
+============================
+
+Ruta 1: http://localhost:3000
+El navegador muestra el mensaje: "Servidor activo".
+Esta es la ruta principal o raíz del servidor. Sirve para confirmar
+que el servidor está encendido y respondiendo correctamente.
+
+Ruta 2: http://localhost:3000/saludo
+El navegador muestra el mensaje: "Hola comunidad".
+Esta ruta responde con un saludo fijo dirigido a la comunidad.
+Es un ejemplo de una ruta personalizada con un mensaje específico.
+
+Ruta 3: http://localhost:3000/mensaje/juan
+El navegador muestra el mensaje: "Hola juan".
+Esta ruta utiliza un parámetro dinámico llamado :nombre. El valor
+que se escribe en la URL después de /mensaje/ es capturado por el
+servidor y usado para personalizar la respuesta. Si se cambia "juan"
+por otro nombre, como "maria", el servidor responderá "Hola maria".
