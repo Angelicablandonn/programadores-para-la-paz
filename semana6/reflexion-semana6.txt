@@ -1,0 +1,10 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los
+ciudadanos de forma estructurada porque esto permite organizar los datos de manera clara y consistente,
+facilitando su análisis posterior. Cuando la información llega en un formato estandarizado como JSON,
+es mucho más sencillo procesarla, almacenarla y mostrarla en distintas aplicaciones. Además, recibir
+los datos de forma estructurada reduce errores y ambigüedades, ya que cada campo tiene un propósito
+claro, como el tipo de incidencia o su descripción. Esto también permite que las entidades responsables
+respondan más rápido a las necesidades de la comunidad, priorizando los casos según su urgencia. Una
+estructura clara facilita la escalabilidad del sistema, permitiendo agregar nuevas funcionalidades sin
+afectar lo que ya existe. En conjunto, estas prácticas fortalecen la confianza de los ciudadanos en las
+herramientas digitales, ya que sus reportes son procesados de manera ordenada y transparente.
