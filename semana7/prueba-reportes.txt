@@ -1,0 +1,5 @@
+Al enviar un POST a /reportes con un JSON como { "tipo": "Infraestructura", "descripcion": "Daño en alumbrado público" },
+el servidor crea un nuevo objeto con un id autoincremental y lo guarda dentro del array "reportes" en memoria.
+Luego, al consultar la ruta GET /reportes, el servidor responde con la lista completa de reportes registrados hasta ese momento, en formato JSON.
+Si se envían varios reportes seguidos, todos aparecen en el array en el orden en que fueron creados.
+Si se reinicia el servidor, el array vuelve a estar vacío porque los datos no se guardan en una base de datos, solo en memoria.
