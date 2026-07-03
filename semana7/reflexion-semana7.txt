@@ -1,0 +1,10 @@
+Es importante que las comunidades puedan registrar y consultar reportes en una plataforma tecnológica porque
+esto facilita la comunicación entre los ciudadanos y las entidades encargadas de resolver los problemas.
+Un sistema digital permite que cualquier persona informe una incidencia sin necesidad de trámites presenciales,
+ahorrando tiempo tanto para quien reporta como para quien debe atender el caso.
+Además, tener los reportes organizados y accesibles facilita priorizar cuáles requieren atención urgente.
+La transparencia también mejora, ya que la información queda registrada y puede consultarse en cualquier momento.
+Este tipo de herramientas fortalece la participación ciudadana, dando a las personas un canal directo para
+expresar necesidades de su entorno, como fallas de infraestructura o problemas ambientales.
+Finalmente, estos sistemas sientan las bases para análisis futuros, permitiendo detectar patrones o zonas
+con mayor cantidad de incidencias, lo cual ayuda a tomar mejores decisiones comunitarias.
