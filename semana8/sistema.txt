@@ -1,0 +1,12 @@
+El comando "uname -a" muestra información técnica del sistema operativo, como el nombre del kernel,
+el nombre del equipo, la versión del kernel, la fecha de compilación y la arquitectura del sistema
+(por ejemplo, x86_64). Es útil porque permite identificar rápidamente en qué entorno se está ejecutando
+el servidor y verificar compatibilidad con software o actualizaciones.
+
+El comando "whoami" muestra el nombre del usuario que está actualmente conectado a la terminal. Esto
+es útil para saber con qué permisos se están ejecutando los comandos, especialmente en servidores donde
+distintos usuarios pueden tener distintos niveles de acceso.
+
+Conocer esta información es importante cuando se administra un servidor porque permite diagnosticar
+problemas, confirmar la configuración del entorno, y asegurarse de que las acciones se están realizando
+con el usuario correcto, evitando errores de permisos o configuraciones inseguras.
