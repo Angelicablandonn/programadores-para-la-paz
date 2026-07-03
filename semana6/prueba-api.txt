@@ -1,0 +1,14 @@
+Al enviar una petición POST a /registro con el JSON { "nombre": "Maria", "mensaje": "Hola comunidad" },
+el servidor lee los valores desde req.body gracias al middleware express.json(), y responde con un
+objeto JSON que confirma la recepción de los datos, incluyendo el estado, el nombre y el mensaje enviados.
+
+La respuesta obtenida es la siguiente:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto demuestra que el servidor procesa correctamente la información enviada desde el cliente y la
+devuelve organizada en formato JSON.
