@@ -1,0 +1,19 @@
+Una plataforma tecnológica que promueve la participación ciudadana necesita una
+base de datos porque la información de las causas y los apoyos debe persistir en
+el tiempo y poder consultarse de forma estructurada y confiable.
+
+Sin almacenamiento estructurado no habría trazabilidad ni forma de demostrar
+cuántas personas respaldaron una iniciativa, lo que restaría legitimidad al proceso.
+
+La autenticación de usuarios es necesaria para saber quién realiza cada acción y
+evitar que una misma persona manipule los resultados con apoyos duplicados.
+
+También permite separar roles: quien solo lee, quien publica y quien administra,
+protegiendo las funciones sensibles del sistema.
+
+La protección de la información es fundamental porque la participación ciudadana
+puede exponer opiniones políticas o sociales que, mal manejadas, generan riesgos
+reales para las personas.
+
+Cuidar los datos no es solo un requisito técnico: es una condición de confianza,
+porque sin privacidad garantizada la comunidad simplemente no participa.
