@@ -1,0 +1,14 @@
+El login es el proceso que permite identificar a un usuario mediante credenciales
+antes de darle acceso a ciertas funciones de la aplicación.
+
+Algunas rutas deben estar protegidas porque contienen información privada,
+registros internos o acciones administrativas que no deberían estar disponibles
+para cualquier persona que visite el sitio.
+
+Por ejemplo, crear o eliminar una causa debería requerir sesión iniciada,
+mientras que ver el listado público puede quedar abierto.
+
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos,
+direcciones, tokens, claves de API ni datos sensibles de la comunidad.
+
+Las contraseñas nunca se guardan en texto plano: se almacenan encriptadas.
